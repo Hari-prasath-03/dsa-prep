@@ -1,9 +1,9 @@
 package arrays.greedy;
 
+import utils.Utils;
+
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Stream;
 
 public class InsertInterval {
     public static int[][] insert(int[][] intervals, int[] newInterval) {
@@ -29,11 +29,6 @@ public class InsertInterval {
         return list.toArray(int[][]::new);
     }
 
-    public static void print2dArray(int[][] arr) {
-        Stream.of(arr).forEach(a -> System.out.print(Arrays.toString(a)));
-        System.out.println();
-    }
-
     public static void main(String[] args) {
         int[][] t1i = {{1,3},{6,9}};
         int[] t1ni = {2, 5};
@@ -41,7 +36,7 @@ public class InsertInterval {
         int[][] t2i = {{1,2},{3,5},{6,7},{8,10},{12,16}};
         int[] t2ni = {4,8};
 
-        print2dArray(insert(t1i, t1ni));
-        print2dArray(insert(t2i, t2ni));
+        Utils.print2dArray(insert(t1i, t1ni));
+        Utils.print2dArray(insert(t2i, t2ni));
     }
 }
