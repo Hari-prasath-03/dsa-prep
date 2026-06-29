@@ -1,4 +1,4 @@
-package arrays.matrix;
+package matrix;
 
 import utils.Utils;
 

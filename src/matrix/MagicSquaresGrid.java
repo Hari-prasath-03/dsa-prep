@@ -1,4 +1,4 @@
-package arrays.matrix;
+package matrix;
 
 public class MagicSquaresGrid {
     static boolean isMagic(int[][] grid, int r, int c) {

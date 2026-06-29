@@ -1,4 +1,4 @@
-package arrays.matrix;
+package matrix;
 
 public class ValidSudoku {
     static boolean containDuplicate(char... arr) {
