@@ -6,12 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfc1a1a-8245-45d4-81d7-354442162fae" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/matrix/MagicSquaresGrid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/matrix/MagicSquaresGrid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/matrix/RotateImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/matrix/RotateImage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/matrix/SetMatrixZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/matrix/SetMatrixZeroes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/matrix/SpiralMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/matrix/SpiralMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/matrix/ValidSudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/matrix/ValidSudoku.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/Utils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,10 +38,14 @@
     "Application.BubbleSort.executor": "Run",
     "Application.ContainerMostWater.executor": "Run",
     "Application.CyclicSort.executor": "Run",
+    "Application.FindFirstAndLastPosition.executor": "Run",
+    "Application.FindMinimumInRotatedSortedArray.executor": "Run",
+    "Application.FindPeakElement.executor": "Run",
     "Application.InsertionSort.executor": "Run",
     "Application.IntersectionOfArrays.executor": "Run",
     "Application.LongestPalindromicSubstring.executor": "Run",
     "Application.MagicSquaresGrid.executor": "Run",
+    "Application.MedianOfTwoSortedArrays.executor": "Run",
     "Application.MergeSort.executor": "Run",
     "Application.MergeSortedArray.executor": "Run",
     "Application.MinimumAbsoluteDifference.executor": "Run",
@@ -55,11 +53,16 @@
     "Application.RansomNote.executor": "Run",
     "Application.RemoveDuplicatesFromSortedArray.executor": "Run",
     "Application.RotateImage.executor": "Run",
+    "Application.SearchA2DMatrix.executor": "Run",
+    "Application.SearchInRotatedSortedArray.executor": "Run",
     "Application.SelectionSort.executor": "Run",
     "Application.SetMatrixZeroes.executor": "Run",
+    "Application.SingleElementInSortedArray.executor": "Run",
     "Application.SortColors.executor": "Run",
     "Application.SpiralMatrix.executor": "Run",
+    "Application.SqrtOfX.executor": "Run",
     "Application.SquaresOfSortedArray.executor": "Run",
+    "Application.Templates.executor": "Run",
     "Application.ThreeSum.executor": "Run",
     "Application.TrappingRainWater.executor": "Run",
     "Application.TwoSumII.executor": "Run",
