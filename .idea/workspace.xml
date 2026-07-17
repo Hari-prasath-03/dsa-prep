@@ -6,58 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cbfc1a1a-8245-45d4-81d7-354442162fae" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/counting/MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/counting/MajorityElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/greedy/InsertInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/greedy/InsertInterval.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/greedy/NonOverlappingIntervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/greedy/NonOverlappingIntervals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/hashing/IntersectionOfArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/hashing/IntersectionOfArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/prefixsum/ContiguousArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/prefixsum/ContiguousArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/prefixsum/ProductOfArrayExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/prefixsum/ProductOfArrayExceptSelf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/prefixsum/SubarraySumEqualsK.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/prefixsum/SubarraySumEqualsK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/search/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/search/LinearSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/simpledp/BestTimeToBuyAndSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/simpledp/BestTimeToBuyAndSellStock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/twopointers/ContainerMostWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/twopointers/ContainerMostWater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/twopointers/LongestPalindromicSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/twopointers/LongestPalindromicSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/twopointers/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/twopointers/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/twopointers/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/twopointers/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/twopointers/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/twopointers/RotateArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/twopointers/SquaresOfSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/twopointers/SquaresOfSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/twopointers/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/twopointers/ThreeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/twopointers/TrappingRainWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/twopointers/TrappingRainWater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/twopointers/TwoSumII.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/twopointers/TwoSumII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binarysearch/FindFirstAndLastPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/binarysearch/FindFirstAndLastPosition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binarysearch/FindMinimumInRotatedSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/binarysearch/FindMinimumInRotatedSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binarysearch/FindPeakElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/binarysearch/FindPeakElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binarysearch/MedianOfTwoSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/binarysearch/MedianOfTwoSortedArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binarysearch/SearchA2DMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/binarysearch/SearchA2DMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binarysearch/SearchInRotatedSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/binarysearch/SearchInRotatedSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binarysearch/SingleElementInSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/binarysearch/SingleElementInSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binarysearch/SqrtOfX.java" beforeDir="false" afterPath="$PROJECT_DIR$/binarysearch/SqrtOfX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binarysearch/Templates.java" beforeDir="false" afterPath="$PROJECT_DIR$/binarysearch/Templates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design/hashing/RandomizedSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/design/hashing/RandomizedSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/matrix/MagicSquaresGrid.java" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/MagicSquaresGrid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/matrix/RotateImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/RotateImage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/matrix/SetMatrixZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/SetMatrixZeroes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/matrix/SpiralMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/SpiralMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/matrix/ValidSudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/ValidSudoku.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/algo/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/algo/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/algo/CyclicSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/algo/CyclicSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/algo/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/algo/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/algo/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/algo/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/algo/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/algo/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/problems/CyclicSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/problems/CyclicSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/problems/MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/problems/MergeSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/problems/MinimumAbsoluteDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/problems/MinimumAbsoluteDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/problems/SortColors.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/problems/SortColors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/problems/WiggleSortII.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/problems/WiggleSortII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/basicoperations/CapitalizeTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/string/basicoperations/CapitalizeTitle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/basicoperations/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/string/basicoperations/LongestCommonPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/basicoperations/StringToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/string/basicoperations/StringToInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/hashing/LongestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/string/hashing/LongestPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/hashing/RansomNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/string/hashing/RansomNote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/twopointers/ReverseOnlyLetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/string/twopointers/ReverseOnlyLetters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/twopointers/ReverseWordsInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/string/twopointers/ReverseWordsInString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/twopointers/StringCompression.java" beforeDir="false" afterPath="$PROJECT_DIR$/string/twopointers/StringCompression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/twopointers/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/string/twopointers/ValidPalindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,51 +33,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContainerMostWater.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CyclicSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindFirstAndLastPosition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindMinimumInRotatedSortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindPeakElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InsertionSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IntersectionOfArrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongestPalindromicSubstring.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MagicSquaresGrid.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MedianOfTwoSortedArrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeSortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinimumAbsoluteDifference.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RandomizedSet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RansomNote.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveDuplicatesFromSortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RotateImage.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SearchA2DMatrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SearchInRotatedSortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SetMatrixZeroes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SingleElementInSortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortColors.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SpiralMatrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SqrtOfX.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SquaresOfSortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Templates.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreeSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TrappingRainWater.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TwoSumII.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ValidSudoku.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WiggleSortII.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/works/java/new-learnings/vdsa&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BasicCalculator.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.CircularQueue.executor": "Run",
+    "Application.ContainerMostWater.executor": "Run",
+    "Application.CyclicSort.executor": "Run",
+    "Application.DailyTemperatures.executor": "Run",
+    "Application.DecodeString.executor": "Run",
+    "Application.EvaluateReversePolishNotation.executor": "Run",
+    "Application.FindFirstAndLastPosition.executor": "Run",
+    "Application.FindMinimumInRotatedSortedArray.executor": "Run",
+    "Application.FindPeakElement.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
+    "Application.IntersectionOfArrays.executor": "Run",
+    "Application.LargestRectangleInHistogram.executor": "Run",
+    "Application.LongestPalindromicSubstring.executor": "Run",
+    "Application.LongestValidParentheses.executor": "Run",
+    "Application.MagicSquaresGrid.executor": "Run",
+    "Application.MedianOfTwoSortedArrays.executor": "Run",
+    "Application.MergeSort.executor": "Run",
+    "Application.MergeSortedArray.executor": "Run",
+    "Application.MinimumAbsoluteDifference.executor": "Run",
+    "Application.NextGreaterElement.executor": "Run",
+    "Application.RandomizedSet.executor": "Run",
+    "Application.RansomNote.executor": "Run",
+    "Application.RemoveDuplicatesFromSortedArray.executor": "Run",
+    "Application.RotateImage.executor": "Run",
+    "Application.SearchA2DMatrix.executor": "Run",
+    "Application.SearchInRotatedSortedArray.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
+    "Application.SetMatrixZeroes.executor": "Run",
+    "Application.SingleElementInSortedArray.executor": "Run",
+    "Application.SlidingWindowMaximum.executor": "Run",
+    "Application.SortColors.executor": "Run",
+    "Application.SpiralMatrix.executor": "Run",
+    "Application.SqrtOfX.executor": "Run",
+    "Application.SquaresOfSortedArray.executor": "Run",
+    "Application.StackWith2Queue.executor": "Run",
+    "Application.Templates.executor": "Run",
+    "Application.ThreeSum.executor": "Run",
+    "Application.TrappingRainWater.executor": "Run",
+    "Application.TwoSumII.executor": "Run",
+    "Application.ValidSudoku.executor": "Run",
+    "Application.WiggleSortII.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/works/java/new-learnings/vdsa",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\works\java\new-learnings\vdsa\design" />
