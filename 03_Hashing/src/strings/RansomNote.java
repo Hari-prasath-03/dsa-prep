@@ -1,0 +1,16 @@
+package strings;
+
+public class RansomNote {
+    public static boolean canConstruct(String ransomNote, String magazine) {
+        int[] hash = new int[26];
+        for (char c: magazine.toCharArray()) hash[c - 'a']++;
+        for (char c: ransomNote.toCharArray()) if (--hash[c - 'a'] < 0) return false;
+        return true;
+    }
+
+    static void main() {
+        System.out.println(canConstruct("a", "b"));
+        System.out.println(canConstruct("aa", "ab"));
+        System.out.println(canConstruct("aa", "aab"));
+    }
+}
