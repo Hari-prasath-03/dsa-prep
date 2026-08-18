@@ -20,7 +20,7 @@ Personal Data Structures & Algorithms revision archive, maintained for continued
 | 12 | Backtracking        | [notes][backtracking]   |
 | 13 | Heap                | [notes][heap]           |
 | 14 | Sliding Window      | [notes][sliding-window] |
-| 15 | Tree                | in progress             |
+| 15 | Tree                | [notes][tree]           |
 | 16 | Graph               | up coming               |
 | 17 | Greedy              | up coming               |
 | 18 | Dynamic Programming | up coming               |
@@ -63,4 +63,4 @@ NN_Topic/
 [backtracking]: 12_Backtracking/notes.md
 [heap]: 13_Heap/notes.md
 [sliding-window]: 14_Sliding_window/notes.md
-
+[tree]: 15_Trees/notes.md

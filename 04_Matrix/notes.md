@@ -6,13 +6,13 @@ A 2D array, elements accessed via `[row][col]`. Internally stored as an array of
 ## Matrix Traversal
 - **Row wise / Column wise**: standard nested loops, `for row in rows: for col in cols`.
 - **Row/Column specific**: fix one index, iterate the other, useful for extracting a single row or column.
-- **Diagonal traversal**: main diagonal where `row == col`, anti diagonal where `row + col == n - 1`. Diagonals going the other direction keep `row - col` constant.
+- **Diagonal basic_tree_traversal**: main diagonal where `row == col`, anti diagonal where `row + col == n - 1`. Diagonals going the other direction keep `row - col` constant.
 
 ## Key Operations & Complexity
 | Operation | Complexity |
 |---|---|
 | Access element | O(1) |
-| Full traversal | O(rows * cols) |
+| Full basic_tree_traversal | O(rows * cols) |
 | Row extraction | O(cols) |
 | Column extraction | O(rows) |
 | Transpose | O(rows * cols) |

@@ -1,4 +1,4 @@
-package traversal;
+package basic_tree_traversal;
 
 import leetcode_treenode_impl.TreeNode;
 

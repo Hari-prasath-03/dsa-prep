@@ -1,4 +1,4 @@
-package general;
+package problems.bfs_or_level_order_traversal;
 
 import leetcode_treenode_impl.TreeNode;
 

@@ -1,4 +1,4 @@
-package general;
+package problems.tree_construct;
 
 import leetcode_treenode_impl.TreeNode;
 

@@ -1,7 +1,7 @@
 # Linked List
 
 ## Overview
-A sequence of nodes where each node holds data and a pointer to the next node (and previous, for doubly linked lists). No contiguous memory requirement, so insertion/deletion at a known position is O(1), but random access requires O(n) traversal.
+A sequence of nodes where each node holds data and a pointer to the next node (and previous, for doubly linked lists). No contiguous memory requirement, so insertion/deletion at a known position is O(1), but random access requires O(n) basic_tree_traversal.
 
 ## Key Operations & Complexity
 | Operation | Complexity |
